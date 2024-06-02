@@ -1,1 +1,1 @@
-# HA_TravelingSalesmanproblem
+The project comprises the following modules: DFS, UCS, AStar and TSP Parser. Executing the project directly will process it with complex input data. Utilizing the "ulysses16.tsp" file, the program will generate the list of cities, the distance matrix for these cities, and the costs for all three search algorithms. To use a different file, such as "bays29.tsp", simply modify the filename specified in main.cpp at line 65.
